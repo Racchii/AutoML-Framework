@@ -1,3 +1,5 @@
+intern id- CITS2218
+
 # AutoML Framework (AutoML Nexus)
 
 An intelligent, full-stack Automated Machine Learning (AutoML) framework designed to simplify the process of applying machine learning to tabular data. AutoML Nexus automates repetitive tasks such as data preprocessing, model selection, and hyperparameter tuning, allowing you to focus on the results.
